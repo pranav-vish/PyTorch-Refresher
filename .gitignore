@@ -5,7 +5,6 @@ Miniconda3-latest-MacOSX-arm64.sh
 .venv/
 venv/
 
-Data/
+data/
 
-# Ignore all files in the Data directory
-Data/*
+.DS_Store
