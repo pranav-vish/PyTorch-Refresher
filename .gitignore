@@ -1,0 +1,11 @@
+# Ignore Miniconda installer
+Miniconda3-latest-MacOSX-arm64.sh
+
+# Ignore virtual environment
+.venv/
+venv/
+
+Data/
+
+# Ignore all files in the Data directory
+Data/*
